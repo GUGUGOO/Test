@@ -5,7 +5,7 @@ public class Main {
 		
 		test t = new test();
 		
-		t.setName("jjiiyyuu");
+		t.setName("jjiiyyuu and hyunggu");
 		
 		t.show();
 		
