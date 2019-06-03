@@ -10,6 +10,7 @@ public class Main {
 		t.show();
 		
 		System.out.println(t.getName());
+		System.out.println("hello git world");
 	}
 
 }
